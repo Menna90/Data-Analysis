@@ -20,11 +20,11 @@ This Python project simulates environmental sensor data (temperature and humidit
 - **Temperature:** Modeled as a sinusoidal daily cycle with added Gaussian noise.
 - **Humidity:** Random values uniformly distributed between 40% and 70%.
 
-Generated data is stored in: 
-  
-    ```
+Generated data is stored in:
+
+  ```
     sensor_data.csv
-    ```
+  ```
 
 ## 📈 Data Analysis and Visualization
 
